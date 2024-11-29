@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202859405655",
+    "project_id": "florida-c9925",
+    "storage_bucket": "florida-c9925.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202859405655:android:f7b2bd9cff7411afb2de12",
+        "android_client_info": {
+          "package_name": "com.breezefieldflorida"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1y_qQ5fgUHRGD0xe6GbVUv79Rbjom_cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
